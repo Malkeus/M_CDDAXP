@@ -463,7 +463,6 @@
 	{
 		"type" : "recipe",
 		"result": "cddaxp_survrbelt",
-		"byproducts": [ [ "leather", 6 ] ],
 		"category": "CC_ARMOR",
 		"subcategory": "CSC_ARMOR_OTHER",
 		"skill_used": "fabrication",
